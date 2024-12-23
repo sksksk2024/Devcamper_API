@@ -24,3 +24,5 @@ npm start
 
 - Version: 1.0.0
 - License: MIT
+
+### PS: this will be the start when I will do more commits as I go, no when I am finished(bad habit) :)
